@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 package calculatour2;
 
 import java.awt.Color;
@@ -429,3 +430,7 @@ public class Calculator implements ActionListener {
 
 	}
 }
+=======
+# Maths-Calculator-
+A simple calculator app 
+>>>>>>> 85868bcf63f4f5bc881d1afdfb833ae3ec3581f7
